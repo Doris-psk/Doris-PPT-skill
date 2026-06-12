@@ -1,0 +1,6 @@
+﻿node_modules/
+.DS_Store
+*.pptx
+!PPT_设计风格全览.pptx
+!FDE_案例展示.pptx
+.vscode/
