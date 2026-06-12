@@ -1,0 +1,5 @@
+﻿interface:
+  display_name: "PPT Generator"
+  short_description: "Generate professional PowerPoint presentations using pptxgenjs"
+  brand_color: "#00D4FF"
+  default_prompt: "Use $ppt-generator to create a professional PowerPoint presentation based on the following content and requirements"
